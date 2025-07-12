@@ -1,1 +1,1 @@
-web: gunicorn forwarder:app
+web: gunicorn app:app
