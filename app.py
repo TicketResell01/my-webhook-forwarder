@@ -3,7 +3,7 @@ import requests
 import logging
 
 # --- PASTE YOUR DESTINATION WEBHOOK URL HERE ---
-DESTINATION_WEBHOOK_URL = "https://discord.com/api/webhooks/1352678838039085196/EhZFWXxlFUizfRXDZaUggMdMbgBxl08c63GyMY7y2mwiq54HAms14Dfavp9dTDk0bP8z"
+DESTINATION_WEBHOOK_URL = "https://discord.com/api/webhooks/1394714234595840192/GG7bjtcVCM-8loQI9LZp61EEnG3G_fUnA23xtno4suW341Ef9UgrS20-YPQ6QBs0H1XO"
 # ----------------------------------------------
 
 logging.basicConfig(level=logging.INFO)
